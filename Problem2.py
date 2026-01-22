@@ -8,16 +8,17 @@
 # o   Sine of the number (in radians)
 # 3.   Displays the calculated results.
 
-import math
-num = int(input("Please Enter Your Number: "))
+# import math
+# num = int(input("Please Enter Your Number: "))
 
-Square_root = math.sqrt(num)
-Logarithmic = math.log(num)
-sine_value = math.sin(num)
+# Square_root = math.sqrt(num)
+# Logarithmic = math.log(num)
+# sine_value = math.sin(num)
 
-print(f"Square Root: {Square_root}")
-print(f"Logarithmic Value: {Logarithmic}")
-print(f"Sine: {sine_value}")
+# print(f"Square Root: {Square_root}")
+# print(f"Logarithmic Value: {Logarithmic}")
+# print(f"Sine: {sine_value}")
+
 
 
 
